@@ -1,4 +1,4 @@
 include Makefile.mk
 
-NAME=kamailio-container
+NAME=sylkserver-container
 USERNAME=onyxsis
